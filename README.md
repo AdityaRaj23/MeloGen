@@ -1,7 +1,7 @@
 # MeloGen
 Generates a melody based on the seed using the deep learning models.
 
-##Link - [https://huggingface.co/spaces/alpha33/MeloGen]
+## Link - [https://huggingface.co/spaces/alpha33/MeloGen]
 
 The video accepts seed in humdrum(.krn) format you may get some more samples from:
 [https://kern.humdrum.org/cgi-bin/browse?l=essen/europa/deutschl/erk]
