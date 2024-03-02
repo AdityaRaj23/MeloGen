@@ -1,6 +1,11 @@
 # MeloGen
 Generates a melody based on the seed using the deep learning models.
 
+The video accepts seed in humdrum(.krn) format you may get some more samples from:
+[https://kern.humdrum.org/cgi-bin/browse?l=essen/europa/deutschl/erk]
+
+- *The quality of seed determines the sound generated.
+- *Length is limited to 500 because of compute issues.
 ## Demo
 
 ### Video
