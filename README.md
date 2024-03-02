@@ -3,7 +3,7 @@ Generates a melody based on the seed using the deep learning models.
 
 ## Link - [https://huggingface.co/spaces/alpha33/MeloGen]
 
-The video accepts seed in humdrum(.krn) format you may get some more samples from:
+The model accepts seed in humdrum(.krn) format you may get some more samples from:
 [https://kern.humdrum.org/cgi-bin/browse?l=essen/europa/deutschl/erk]
 
 - *The quality of seed determines the sound generated.
